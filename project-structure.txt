@@ -1,0 +1,14 @@
+portfolio/
+├── 📄 index.html              # Main HTML file
+├── 🎨 style.css               # All styles (CSS)
+├── ⚡ script.js               # All interactions (JavaScript)
+│
+├── 📂 assets/
+│   ├── 📁 images/            # Image assets
+│   │   ├── 📸 profile.jpg
+│   │   ├── 🏫 college/
+│   │   └── 🚀 projects/
+│   └── 📄 resume.pdf         # Your resume
+│
+├── 📖 README.md              # This documentation
+└── 🎯 .gitignore            # Git ignore file
