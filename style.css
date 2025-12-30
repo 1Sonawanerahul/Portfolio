@@ -1316,4 +1316,16 @@ h1, h2, h3, h4 {
     .logo-name {
         font-size: 1rem;
     }
+
+}
+
+@media only screen and (max-width:564px) {
+    .hero-image {
+        display: none;
+    }
+
+    .about-image{
+        height: 400px;
+        
+    }
 }
